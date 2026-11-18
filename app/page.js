@@ -31,7 +31,7 @@ export default function Home() {
 
   return (
     <main style={{ maxWidth: 560, margin: "0 auto", padding: "48px 20px" }}>
-      <h1 style={{ fontSize: 40, margin: "0 0 4px" }}>Notes wall</h1>
+      <h1 style={{ fontSize: 40, margin: "0 0 4px" }}>Notes wall (Updated By Dawood)</h1>
       <p style={{ margin: "0 0 28px", color: "#5a6a68" }}>
         Anything you write here is saved in a real database and shown to every visitor.
       </p>
